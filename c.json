@@ -1,0 +1,13 @@
+{
+"Print to console": {
+      "prefix": "c boilerplate Code",
+       "body": [
+              "#include<stdio.h>\n",
+              "int main(){",
+              "\t$1",
+              "\treturn 0;",
+              "}"
+       ],
+       "description": "This is our boilerplate code for running C programs"
+    }
+}
